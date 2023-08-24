@@ -1,0 +1,16 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar{
+    background-color: rgb(78, 10, 78);
+    color: #FFF;
+    padding: 10px;
+}
+
+.bt-home{
+  background-color: #ffffff00;
+  border: none;
+  color: #FFF;
+  font-size: 16px;
+}
